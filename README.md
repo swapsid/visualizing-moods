@@ -14,4 +14,4 @@ This data was collected via logging in my mood each day on Pixels. You can downl
 ![](https://github.com/swapsid/visualizing-moods/blob/main/Mood%20Month%20Bars.png)
 ![](https://github.com/swapsid/visualizing-moods/blob/main/Day%20Bars.png)
 ![](https://github.com/swapsid/visualizing-moods/blob/main/Fluctualtions%20of%20mood.png)
-![](https://github.com/swapsid/visualizing-moods/blob/main/All%20the%20moods.png)
+
